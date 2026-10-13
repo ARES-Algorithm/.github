@@ -4,7 +4,7 @@
 
 ### `PERCEIVE · DECIDE · CONTROL`
 
-**南方科技大学 ARES 机器人社算法组**<b
+**南方科技大学 ARES 机器人社算法组**
 **ARES Robotics Algorithm Team · SUSTech**
 
 
